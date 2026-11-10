@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application android:label="NovaVPN" android:usesCleartextTraffic="false">
+        <!-- The WireGuard tunnel library contributes its protected VPN service via manifest merge. -->
+    </application>
+</manifest>

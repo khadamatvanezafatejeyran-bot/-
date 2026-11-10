@@ -1,7 +1,7 @@
 name: novavpn
-description: NovaVPN Flutter UI prototype with a premium dark dashboard.
+description: NovaVPN WireGuard Android client and dashboard.
 publish_to: 'none'
-version: 1.0.0+1
+version: 0.2.0+2
 
 environment:
   sdk: '>=3.9.0 <4.0.0'
