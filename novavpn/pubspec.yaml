@@ -1,10 +1,10 @@
 name: novavpn
- description: NovaVPN app starter with a premium dark dashboard UI.
+description: NovaVPN Flutter UI prototype with a premium dark dashboard.
 publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: '>=3.9.0 <4.0.0'
 
 dependencies:
   flutter:
